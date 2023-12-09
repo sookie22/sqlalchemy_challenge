@@ -16,6 +16,7 @@ In this section, you’ll use Python and SQLAlchemy to do a basic climate analys
 - Load the query results into a Pandas DataFrame. Explicitly set the column names.
 - Sort the DataFrame values by "date".
 - Please find the results below:
+
 ![Image 1.png](Images/Image%201.png)
 
   
